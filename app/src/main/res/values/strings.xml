@@ -1,0 +1,12 @@
+<resources>
+    <string name="action_settings">Calculate</string>
+    <string name="txtTitle">Split The Bill</string>
+    <string name="txtTotalBill">Enter Bill amount</string>
+    <string name="txtParty">Party Number</string>
+    <string name="txtTip">Enter Tip</string>
+    <string name="btnCost">FIND THE COST PER PERSON</string>
+    <string name="txtCost">OST PER PERSON</string>
+    <string name="app_name">Split the Bill</string>
+    <string name="imageView">pizza</string>
+
+</resources>
